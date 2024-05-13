@@ -4,8 +4,7 @@
 
 Este projeto android desenvolvido em Java, um aplicativo para jogar  Pedra, papel ou tesoura!
 
-
-<img src="https://imgur.com/gallery/reU5QWN.gif" width="350"/>
+<img src="https://imgur.com/ESKvhS4.gif" width="350"/>
 
 ## 🧑‍💻 Técnicas e Tecnologias
 
